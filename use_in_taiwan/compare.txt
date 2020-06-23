@@ -1,0 +1,38 @@
+sclstm:
+不確定:0.037385743828387586 0.00012673132611380844
+大於6 0.68
+rmse:9.054036742335733
+Explained Variance: 0.73
+Mean Absolute Error: 6.45 degrees 
+
+slstm:*
+不確定:0.03766074406794482 0.00012586724245605073
+大於6 0.51
+rmse:9.238205113819865
+Explained Variance: 0.65
+Mean Absolute Error: 6.73 degrees
+
+clstm:
+不確定:0.03793379847212274 0.00013808875962490993
+大於6 0.50
+rmse:9.342124871551173
+Explained Variance: 0.69
+Mean Absolute Error: 6.68 degrees  
+
+lstm:*
+不確定:0.03901600218716111 0.00013010326963464898
+大於6 0.37
+rmse:10.144861899803157
+Explained Variance: 0.65
+Mean Absolute Error: 7.31 degrees 
+
+ml:
+0.64
+大於6 0.41
+rmse:9.86
+Mean Absolute Error: 7.23 degrees
+
+tem:
+0.88
+rmse:2.203323849586095
+Mean Absolute Error:1.66
